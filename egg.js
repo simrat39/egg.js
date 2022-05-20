@@ -146,6 +146,8 @@ Egg.prototype.listen  = Egg.prototype.Listen;
 Egg.prototype.addCode = Egg.prototype.AddCode;
 Egg.prototype.addHook = Egg.prototype.AddHook;
 
+export default Egg;
+
 // EGGSAMPLE
 // var egg = new Egg();
 // egg
